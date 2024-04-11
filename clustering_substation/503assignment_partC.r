@@ -1,6 +1,6 @@
 require(tidyverse)
 
-setwd("C:/Users/Ivor Kuan/Desktop/Exeter/MTHM503/assignment")
+# setwd(" ")
 
 load("January_2013.RData")
 load("January_2014.RData")
